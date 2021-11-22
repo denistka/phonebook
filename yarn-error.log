@@ -1,0 +1,69 @@
+Arguments: 
+  /Users/denis/.nvm/versions/node/v12.16.1/bin/node /Users/denis/.nvm/versions/node/v12.16.1/bin/yarn
+
+PATH: 
+  /Users/denis/.nvm/versions/node/v12.16.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Apple/usr/bin:/Users/denis/WebstormProjects/blueprinttest/node_modules/.bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  12.16.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/denis/WebstormProjects/blueprinttest/package.json: Unexpected string in JSON at position 868
+      at JSON.parse (<anonymous>)
+      at /Users/denis/.nvm/versions/node/v12.16.1/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/denis/.nvm/versions/node/v12.16.1/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/denis/.nvm/versions/node/v12.16.1/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "blueprinttest",
+    "version": "0.0.1",
+    "description": "A Quasar Framework app",
+    "productName": "Quasar App",
+    "author": "denis <denistka@gmail.com>",
+    "private": true,
+    "scripts": {
+      "dev": "quasar dev",
+      "test": "echo \"No test specified\" && exit 0"
+    },
+    "dependencies": {
+      "@quasar/extras": "^1.0.0",
+      "core-js": "^3.6.5",
+      "quasar": "^2.0.0",
+      "vuex": "^4.0.1"
+    },
+    "devDependencies": {
+      "@quasar/app": "^3.0.0"
+    },
+    "browserslist": [
+      "last 10 Chrome versions",
+      "last 10 Firefox versions",
+      "last 4 Edge versions",
+      "last 7 Safari versions",
+      "last 8 Android versions",
+      "last 8 ChromeAndroid versions",
+      "last 8 FirefoxAndroid versions",
+      "last 10 iOS versions",
+      "last 5 Opera versions"
+    ],
+    "engines": {
+      "node": ">= 12.16.1",
+      "npm": ">= 6.13.4",
+      "yarn": ">= 1.21.1"
+    }
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

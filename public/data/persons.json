@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "firstName": "Taras",
+    "lastName": "Bubnov",
+    "company": "Google",
+    "phoneNumber": "+380960413877",
+    "notes": "Taras Bubnov description"
+  },
+  {
+    "id": 1,
+    "firstName": "Denis",
+    "lastName": "Ivanov",
+    "company": "Facebook",
+    "phoneNumber": "+380639413888",
+    "notes": "Denis Ivanov description"
+  },
+  {
+    "id": 2,
+    "firstName": "Elena",
+    "lastName": "Vladlena",
+    "company": "Instagram",
+    "phoneNumber": "+3804353453454",
+    "notes": "Denis Ivanov description"
+  },
+  {
+    "id": 3,
+    "firstName": "Baras",
+    "lastName": "Vubnov",
+    "company": "Google",
+    "phoneNumber": "+380960413877",
+    "notes": "Taras Bubnov description"
+  },
+  {
+    "id": 4,
+    "firstName": "Beenis",
+    "lastName": "Idavanov",
+    "company": "Facebook",
+    "phoneNumber": "+380639413888",
+    "notes": "Denis Ivanov description"
+  },
+  {
+    "id": 5,
+    "firstName": "Melena",
+    "lastName": "Bravladlena",
+    "company": "Instagram",
+    "phoneNumber": "+3804353453454",
+    "notes": "Denis Ivanov description"
+  },
+  {
+    "id": 6,
+    "firstName": "Karas",
+    "lastName": "Gubnov",
+    "company": "Google",
+    "phoneNumber": "+380960413877",
+    "notes": "Taras Bubnov description"
+  },
+  {
+    "id": 7,
+    "firstName": "Venis",
+    "lastName": "Bivanov",
+    "company": "Facebook",
+    "phoneNumber": "+380639413888",
+    "notes": "Denis Ivanov description"
+  },
+  {
+    "id": 8,
+    "firstName": "Polena",
+    "lastName": "Suchkova",
+    "company": "Instagram",
+    "phoneNumber": "+3804353453454",
+    "notes": "Denis Ivanov description"
+  },
+  {
+    "id": 9,
+    "firstName": "Varvar",
+    "lastName": "Burbanov",
+    "company": "Google",
+    "phoneNumber": "+380960413877",
+    "notes": "Taras Bubnov description"
+  },
+  {
+    "id": 10,
+    "firstName": "Vasis",
+    "lastName": "Indianow",
+    "company": "Facebook",
+    "phoneNumber": "+380639413888",
+    "notes": "Denis Ivanov description"
+  },
+  {
+    "id": 11,
+    "firstName": "Grimasola",
+    "lastName": "Patochkina",
+    "company": "Instagram",
+    "phoneNumber": "+3804353453454",
+    "notes": "Denis Ivanov description"
+  }
+]
